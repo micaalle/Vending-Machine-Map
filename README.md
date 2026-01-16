@@ -29,6 +29,4 @@ As the project owner, I have access to a secure admin dashboard where I can:
 - Monitor user-generated content
 - Maintain the integrity of the data shown on the map
 
-## Presentation
 
-https://docs.google.com/presentation/d/1N3uQgEt__BgYAK1ukqN8sJ98SVtDa6aiyqCf8glFrhU/edit?slide=id.g2d95f8cc247_3_0#slide=id.g2d95f8cc247_3_0
