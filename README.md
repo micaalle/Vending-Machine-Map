@@ -29,4 +29,8 @@ As the project owner, I have access to a secure admin dashboard where I can:
 - Monitor user-generated content
 - Maintain the integrity of the data shown on the map
 
+## Photo of vending machine view
+<img width="2558" height="1267" alt="Screenshot 2026-01-16 142508" src="https://github.com/user-attachments/assets/e1846bc7-066f-421a-b76d-7d3c72cac13e" />
 
+## Submission page for new vending machine
+<img width="2557" height="1266" alt="Screenshot 2026-01-16 144826" src="https://github.com/user-attachments/assets/c4f6d5f6-1e36-451b-9044-c53f88c05923" />
